@@ -1,6 +1,4 @@
 # PSU_2016_minishell1
-Minishell 1
-
 # Minishell1
 
 EPITECH first year project.
