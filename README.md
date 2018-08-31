@@ -24,6 +24,7 @@ Navigate to the root of the repository from your Terminal and run `make` to buil
    - `cd`
    - `env [-0] [--null] [-u]`
    - `pwd`
+   - `exit`
  - Prompt
  - Support for non-interactive mode
 
