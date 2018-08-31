@@ -29,4 +29,4 @@ Navigate to the root of the repository from your Terminal and run `make` to buil
 
 ## Author
 
-* **Sadiquee Mobashir** [LinkedIn](www.linkedin.com/in/mobashir-sadiquee-aa429a14)
+* **Sadiquee Mobashir** [LinkedIn](https://www.linkedin.com/in/mobashir-sadiquee-aa429a145/)
